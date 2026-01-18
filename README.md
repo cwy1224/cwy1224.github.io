@@ -29,5 +29,5 @@ I am a **first-year undergraduate student** at
 
 ## 📫 Contact Me
 - 🐙 GitHub: https://github.com/cwy1224  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/wen-yi-chew-841b223a3/
 - 📧 Email: **chewwenyi@graduate.utm.my**
